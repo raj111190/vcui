@@ -1,0 +1,5 @@
+VcSearchButton example:
+
+```js
+<VcSearchButton />
+```
